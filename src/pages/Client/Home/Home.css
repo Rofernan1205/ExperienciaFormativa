@@ -1,0 +1,76 @@
+
+.container-fluid .banner-title .R{
+    color: blueviolet;
+    background-color: white;
+    margin: 5px;
+    padding: 2px 10px 2px 10px;
+    border-radius: 10px;
+}
+.container-fluid .banner-title .week{
+    color: hotpink;
+   
+}
+
+.container-fluid .banner-title p{
+    padding: 0px 5px 0px 5px;
+}
+.container-fluid .banner-promotion{
+    background-color: blueviolet;
+    
+}
+.container-fluid .transparent-card {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+.container-fluid .transparent-card {
+    overflow: hidden; 
+}
+.container-fluid .transparent-card img {
+    transition: transform 0.5s ease; 
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); 
+}
+
+.container-fluid .transparent-card img:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5); 
+}
+.container-fluid .seccion_2{
+    background-color: rgb(134, 134, 134);
+}
+
+.line-vertical {
+    width: 2px; 
+    height: 80px; 
+    background-color: black; 
+    margin-top: 10px; 
+    margin-left: 10px; 
+    margin-right: auto; 
+
+}
+
+.imagen_1 img, .imagen_2 img {
+    width: 150px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+.ofertas{
+padding: 20px;
+}
+.ofertas .img-container {
+    width: 400px; 
+    height: 400px; 
+    overflow: hidden;
+    position: relative;
+}
+
+.ofertas .img-container img {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease; 
+}
+
+.ofertas .img-container:hover img {
+    transform: scale(1.2); 
+}

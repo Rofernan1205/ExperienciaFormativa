@@ -1,0 +1,25 @@
+nav{
+    font-family: "Open Sans", serif;
+    font-weight: 600 !important;
+    font-size: 1rem;
+}
+
+nav .navbar-brand.logo{
+  font-family: "Open Sans", serif;
+  font-weight: bold;
+  font-style: italic;
+  color: #04AA6D;
+
+}
+
+nav .nav-link.fs-4.active-admin{
+  color: #04AA6D;
+  font-weight: bold !important;
+}
+
+
+
+nav .nav-link.active-nav{
+    background-color: #04AA6D;
+    color: white !important;
+}

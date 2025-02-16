@@ -1,0 +1,23 @@
+.login-admin{
+    font-family: "Open Sans", serif;
+    width: 100%;
+    height: 100%;
+}
+
+.login-admin form {
+    border: 1px solid ;
+    width: 400px;
+
+}
+.login-admin #sms-password ,.login-admin #sms-email{
+    width: 366px;
+    height: 24px;
+}
+
+.login-admin .sms-error{
+  color: rgb(168, 15, 15);  
+  font-family: 400;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+

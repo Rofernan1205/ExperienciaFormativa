@@ -1,0 +1,8 @@
+header{
+    background-color: transparent;
+}
+header span{
+    font-family: "Dancing Script", serif;
+    font-size: 1.2rem;
+    font-weight:bold;
+}

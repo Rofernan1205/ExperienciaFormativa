@@ -1,0 +1,6 @@
+export * from "./Home"
+export * from "./Products"
+export * from "./Cellphones"
+export * from "./Tablets"
+export * from "./audios"
+export * from "./watches"

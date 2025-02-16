@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    font-family: "Dancing Script", serif;
+    font-family: "Open Sans", serif;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.margged-cero{
+    margin: 0px !important;
+
+}
+
+.padded-cero{
+    padding: 0px !important;
+}
+
+.bg-color-primary{
+    background-color: #F8F9FA !important;
+    
+}
+
+.bg-color-secondary{
+    background-color: #1e1e1e !important;
+}
+.bg-color-main{
+    background-color: #04AA6D !important;
+}
